@@ -62,7 +62,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com">
+         <a href="">
          Ad-hoc аналитика в отделе рекламы</a>
      </b>
  </td>
@@ -83,7 +83,7 @@
    <td>4</td>
    <td>
       <b>
-         <a href="https://github.com">
+         <a href="https://github.com/vkoreneva/portfolio/blob/main/4_RFM.ipynb">
          RFM-анализ</a>
      </b>
  </td>
@@ -103,7 +103,7 @@
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com">
+         <a href="">
          Построение моделей на основе линейной регрессии</a>
      </b>
  </td>
@@ -127,7 +127,7 @@
    <td>6</td>
    <td>
       <b>
-         <a href="https://github.com">
+         <a href="">
          A/B тестирование в такси</a>
      </b>
  </td>
