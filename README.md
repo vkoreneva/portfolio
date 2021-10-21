@@ -42,7 +42,7 @@
    <td>2</td>  
    <td>
       <b>
-         <a href="https://github.com">
+         <a href="https://github.com/vkoreneva/portfolio/blob/main/2_loyalty_brands.ipynb">
          Анализ лояльности пользователей</a>
      </b>
  </td>
