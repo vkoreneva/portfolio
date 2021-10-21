@@ -17,7 +17,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/vkoreneva/portfolio/blob/main/8_final_work.ipynb">
+             <a href="https://github.com/vkoreneva/portfolio/blob/main/1_final_work.ipynb">
              Выпускной проект </a>
           </b>
      </td>
