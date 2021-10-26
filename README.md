@@ -102,7 +102,7 @@
    <td>5</td>
    <td>
       <b>
-         <a href="">
+         <a href="https://github.com/vkoreneva/portfolio/blob/main/5_regressiya.ipynb">
          Построение моделей на основе линейной регрессии</a>
      </b>
  </td>
@@ -114,8 +114,7 @@
 <td>
         <code>pandas</code>
         <code>matplotlib</code><br>
-        <code>statsmodels</code>
-        <code>scipy</code><br>
+	<code>statsmodels</code>
         <code>seaborn</code>
         <code>numpy</code>
 </td>
