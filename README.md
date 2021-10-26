@@ -30,8 +30,7 @@
         <code>pandas</code>
         <code>numpy</code><br/>
         <code>matplotlib</code><br/>
-        <code>fbprophet</code><br/>
-		<code>statsmodels</code><br/>
+        <code>statsmodels</code><br/>
         <code>SQL</code>
         <code>pandahouse</code>
     </td>
